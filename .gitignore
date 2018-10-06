@@ -4,3 +4,5 @@ _build
 .merlin
 *.log
 *.install
+
+*.bs.js

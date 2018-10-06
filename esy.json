@@ -27,6 +27,7 @@
     "@opam/lwt_ppx": "^1.2.1",
     "@opam/merlin-extend": "*",
     "@opam/ppx_deriving": "^4.2.1",
+    "bs-webapi": "^0.12.2",
     "flex": "briskml/flex#21dc063",
     "refmterr": "^3.1.7"
   },
@@ -38,6 +39,8 @@
     "@opam/alcotest": "^0.8.3",
     "@opam/easy-format": "^1.3.1",
     "@opam/simple-diff": "0.3",
+    "fpack": "*",
+    "bs-platform": "*",
     "ocaml": "~4.7.2",
     "xcodegen": "^1.10.3",
     "xcpretty": "^0.2.8"

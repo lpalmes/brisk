@@ -1,0 +1,23 @@
+{
+  "name": "react-template",
+  "sources": [
+    {
+      "dir": "src",
+      "subdirs": true
+    },
+    {
+      "dir": "../core/lib/",
+      "subdirs": true
+    }
+  ],
+  "package-specs": [
+    {
+      "module": "commonjs",
+      "in-source": true
+    }
+  ],
+  "bs-dependencies": ["bs-webapi"],
+  "suffix": ".bs.js",
+  "namespace": true,
+  "refmt": 3
+}
